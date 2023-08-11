@@ -21,7 +21,7 @@ import useFirestore from "../hooks/useFirestore"
           <figure className="max-h-[15rem]">
             <img
               src={image.imageUrl}
-              alt="Shoes"
+              alt="cat photo"
             />
           </figure>
           <div className="card-body">

@@ -12,7 +12,7 @@ const navbar = () => {
 
   return (
     <div className="navbar bg-base-100 justify-between">
-      <a className="font-bold normal-case text-xl underline">GalleryPro 📷</a>
+      <a className="font-bold normal-case text-xl underline">CatGalleryPro 📷</a>
       <button onClick={handleLogout}>Logout</button>
     </div>
   )
